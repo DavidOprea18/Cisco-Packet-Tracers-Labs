@@ -8,7 +8,7 @@ This repository contains a collection of network design and configuration projec
 * **Services:** DHCP Server, NAT/PAT, DNS.
 * **Infrastructure:** Serial Point-to-Point connections, Clock Rate synchronization, Wildcard Masking.
 
----
+-----
 
 ## 📂 Featured Projects
 
@@ -25,14 +25,14 @@ This repository contains a collection of network design and configuration projec
 * **Objective:** Establishing end-to-end connectivity between remote LANs using serial interfaces.
 * **Key Features:** Static routes, Clock Rate config, and Point-to-Point link optimization.
 
----
+-----
 
 ## 🛠️ How to use
 1. Download and install **Cisco Packet Tracer**.
 2. Clone this repository: `git clone https://github.com/numele-tau/Networking-Labs.git`
 3. Open any `.pkt` file to view the topology and CLI configurations.
 
----
+-----
 
 ## 🎓 Academic Context
 These projects were developed as part of the **Computer Networks** and **Complex Network Services** curriculum at **Politehnica University of Timișoara**, supplemented by self-study for the **CCNA 200-301** certification.
